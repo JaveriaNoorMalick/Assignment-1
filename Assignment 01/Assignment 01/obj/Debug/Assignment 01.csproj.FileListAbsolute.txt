@@ -1,0 +1,6 @@
+C:\Users\Javeria NOOr\documents\visual studio 2012\Projects\Assignment 01\Assignment 01\bin\Debug\Assignment 01.exe.config
+C:\Users\Javeria NOOr\documents\visual studio 2012\Projects\Assignment 01\Assignment 01\bin\Debug\Assignment 01.exe
+C:\Users\Javeria NOOr\documents\visual studio 2012\Projects\Assignment 01\Assignment 01\bin\Debug\Assignment 01.pdb
+C:\Users\Javeria NOOr\documents\visual studio 2012\Projects\Assignment 01\Assignment 01\obj\Debug\Assignment 01.csprojResolveAssemblyReference.cache
+C:\Users\Javeria NOOr\documents\visual studio 2012\Projects\Assignment 01\Assignment 01\obj\Debug\Assignment 01.exe
+C:\Users\Javeria NOOr\documents\visual studio 2012\Projects\Assignment 01\Assignment 01\obj\Debug\Assignment 01.pdb
